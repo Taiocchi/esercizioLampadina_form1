@@ -12,13 +12,13 @@ namespace Esercizio_form1
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Accendi_Click(object sender, EventArgs e)
         {
             pictureBox2.Visible = false;
-            pictureBox1.Visible = true;            
+            pictureBox1.Visible = true;
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void Spegni_Click(object sender, EventArgs e)
         {
             pictureBox2.Visible = false;
             pictureBox2.Visible = true;
@@ -32,6 +32,18 @@ namespace Esercizio_form1
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void Alza_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Top -= 40;
+            pictureBox2.Top -= 40;
+        }
+
+        private void Abbassa_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Top += 40;
+            pictureBox2.Top += 40;
         }
     }
 }

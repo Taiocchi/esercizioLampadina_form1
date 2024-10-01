@@ -28,35 +28,37 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button2 = new Button();
-            button1 = new Button();
+            Spegni = new Button();
+            Accendi = new Button();
             pictureBox1 = new PictureBox();
             pictureBox2 = new PictureBox();
+            Alza = new Button();
+            Abbassa = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
-            // button2
+            // Spegni
             // 
-            button2.Font = new Font("Segoe UI", 15F);
-            button2.Location = new Point(183, 222);
-            button2.Name = "button2";
-            button2.Size = new Size(120, 77);
-            button2.TabIndex = 1;
-            button2.Text = "SPEGNI";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            Spegni.Font = new Font("Segoe UI", 15F);
+            Spegni.Location = new Point(114, 222);
+            Spegni.Name = "Spegni";
+            Spegni.Size = new Size(120, 77);
+            Spegni.TabIndex = 1;
+            Spegni.Text = "SPEGNI";
+            Spegni.UseVisualStyleBackColor = true;
+            Spegni.Click += Spegni_Click;
             // 
-            // button1
+            // Accendi
             // 
-            button1.Font = new Font("Segoe UI", 15F);
-            button1.Location = new Point(183, 95);
-            button1.Name = "button1";
-            button1.Size = new Size(120, 77);
-            button1.TabIndex = 2;
-            button1.Text = "ACCENDI";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            Accendi.Font = new Font("Segoe UI", 15F);
+            Accendi.Location = new Point(114, 95);
+            Accendi.Name = "Accendi";
+            Accendi.Size = new Size(120, 77);
+            Accendi.TabIndex = 2;
+            Accendi.Text = "ACCENDI";
+            Accendi.UseVisualStyleBackColor = true;
+            Accendi.Click += Accendi_Click;
             // 
             // pictureBox1
             // 
@@ -76,16 +78,40 @@
             pictureBox2.TabIndex = 5;
             pictureBox2.TabStop = false;
             // 
+            // Alza
+            // 
+            Alza.Font = new Font("Segoe UI", 15F);
+            Alza.Location = new Point(342, 95);
+            Alza.Name = "Alza";
+            Alza.Size = new Size(120, 77);
+            Alza.TabIndex = 6;
+            Alza.Text = "ALZA";
+            Alza.UseVisualStyleBackColor = true;
+            Alza.Click += Alza_Click;
+            // 
+            // Abbassa
+            // 
+            Abbassa.Font = new Font("Segoe UI", 15F);
+            Abbassa.Location = new Point(342, 222);
+            Abbassa.Name = "Abbassa";
+            Abbassa.Size = new Size(120, 77);
+            Abbassa.TabIndex = 7;
+            Abbassa.Text = "ABBASSA";
+            Abbassa.UseVisualStyleBackColor = true;
+            Abbassa.Click += Abbassa_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ButtonFace;
             ClientSize = new Size(800, 450);
+            Controls.Add(Abbassa);
+            Controls.Add(Alza);
             Controls.Add(pictureBox2);
             Controls.Add(pictureBox1);
-            Controls.Add(button1);
-            Controls.Add(button2);
+            Controls.Add(Accendi);
+            Controls.Add(Spegni);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
@@ -96,9 +122,11 @@
 
         #endregion
 
-        private Button button2;
-        private Button button1;
+        private Button Spegni;
+        private Button Accendi;
         private PictureBox pictureBox1;
         private PictureBox pictureBox2;
+        private Button Alza;
+        private Button Abbassa;
     }
 }

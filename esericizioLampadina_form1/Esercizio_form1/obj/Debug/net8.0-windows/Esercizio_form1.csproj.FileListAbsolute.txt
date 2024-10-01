@@ -15,20 +15,37 @@ C:\Users\taiocchi.21206\Desktop\C#\Esercizio_form1\Esercizio_form1\obj\Debug\net
 C:\Users\taiocchi.21206\Desktop\C#\Esercizio_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.genruntimeconfig.cache
 C:\Users\taiocchi.21206\Desktop\C#\Esercizio_form1\Esercizio_form1\obj\Debug\net8.0-windows\ref\Esercizio_form1.dll
 C:\Users\taiocchi.21206\Desktop\C#\Esercizio_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Properties.Resources.resources
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.exe
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.deps.json
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.runtimeconfig.json
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.dll
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.pdb
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Form1.resources
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Properties.Resources.resources
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.GenerateResource.cache
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.AssemblyInfoInputs.cache
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.AssemblyInfo.cs
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.CoreCompileInputs.cache
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.dll
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\refint\Esercizio_form1.dll
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.pdb
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.genruntimeconfig.cache
-C:\Users\lucta\OneDrive\Desktop\esericizioLampadina_form1-20240927T132557Z-001\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\ref\Esercizio_form1.dll
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Form1.resources
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Properties.Resources.resources
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.GenerateResource.cache
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.AssemblyInfoInputs.cache
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.AssemblyInfo.cs
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.CoreCompileInputs.cache
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.dll
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\refint\Esercizio_form1.dll
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.pdb
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.exe
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.deps.json
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.runtimeconfig.json
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.dll
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.pdb
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.genruntimeconfig.cache
+C:\Users\lucta\Desktop\C++\Es bernini (C#)\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\ref\Esercizio_form1.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.exe
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.deps.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.runtimeconfig.json
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Form1.resources
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Properties.Resources.resources
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.GenerateResource.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.AssemblyInfoInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.AssemblyInfo.cs
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.CoreCompileInputs.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\refint\Esercizio_form1.dll
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.pdb
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.genruntimeconfig.cache
+C:\Users\lucta\OneDrive\Desktop\Luca\C#\esericizioLampadina_V02\Esercizio_form1\obj\Debug\net8.0-windows\ref\Esercizio_form1.dll
