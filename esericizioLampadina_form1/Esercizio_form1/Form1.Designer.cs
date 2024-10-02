@@ -105,7 +105,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ButtonFace;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 461);
             Controls.Add(Abbassa);
             Controls.Add(Alza);
             Controls.Add(pictureBox2);

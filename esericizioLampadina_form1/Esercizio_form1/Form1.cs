@@ -36,14 +36,20 @@ namespace Esercizio_form1
 
         private void Alza_Click(object sender, EventArgs e)
         {
-            pictureBox1.Top -= 40;
-            pictureBox2.Top -= 40;
+            if (pictureBox1.Top >= 0 && pictureBox2.Top >= 0)
+            {
+                pictureBox1.Top -= 10;
+                pictureBox2.Top -= 10;
+            }
         }
 
         private void Abbassa_Click(object sender, EventArgs e)
         {
-            pictureBox1.Top += 40;
-            pictureBox2.Top += 40;
+            if (pictureBox1.Top <= 310 && pictureBox2.Top <= 310)
+            {
+                pictureBox1.Top += 10;
+                pictureBox2.Top += 10;
+            }
         }
     }
 }
