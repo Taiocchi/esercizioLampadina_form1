@@ -45,7 +45,7 @@ namespace Esercizio_form1
 
         private void Abbassa_Click(object sender, EventArgs e)
         {
-            if (pictureBox1.Top <= 310 && pictureBox2.Top <= 310)
+            if (pictureBox1.Top <= 320 && pictureBox2.Top <= 320)
             {
                 pictureBox1.Top += 10;
                 pictureBox2.Top += 10;
