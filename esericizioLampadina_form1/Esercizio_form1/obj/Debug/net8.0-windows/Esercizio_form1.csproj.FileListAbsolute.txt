@@ -54,7 +54,6 @@ C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Es
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.runtimeconfig.json
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.dll
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\bin\Debug\net8.0-windows\Esercizio_form1.pdb
-C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Form1.resources
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Properties.Resources.resources
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.csproj.GenerateResource.cache
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.GeneratedMSBuildEditorConfig.editorconfig
@@ -67,3 +66,4 @@ C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Es
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.pdb
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.genruntimeconfig.cache
 C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\ref\Esercizio_form1.dll
+C:\Users\taiocchi.21206\C#\esercizioLampadina_form1\esericizioLampadina_form1\Esercizio_form1\obj\Debug\net8.0-windows\Esercizio_form1.Form1.resources
