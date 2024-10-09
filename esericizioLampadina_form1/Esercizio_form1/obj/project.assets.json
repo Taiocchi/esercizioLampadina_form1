@@ -8,24 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\taiocchi.21206\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\lucta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taiocchi.21206\\C#\\esercizioLampadina_form1\\esericizioLampadina_form1\\Esercizio_form1\\Esercizio_form1.csproj",
+      "projectUniqueName": "C:\\Users\\lucta\\Desktop\\INFORMATICA\\Es bernini (C#)\\esercizioLampadina_form1\\esericizioLampadina_form1\\Esercizio_form1\\Esercizio_form1.csproj",
       "projectName": "Esercizio_form1",
-      "projectPath": "C:\\Users\\taiocchi.21206\\C#\\esercizioLampadina_form1\\esericizioLampadina_form1\\Esercizio_form1\\Esercizio_form1.csproj",
-      "packagesPath": "C:\\Users\\taiocchi.21206\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taiocchi.21206\\C#\\esercizioLampadina_form1\\esericizioLampadina_form1\\Esercizio_form1\\obj\\",
+      "projectPath": "C:\\Users\\lucta\\Desktop\\INFORMATICA\\Es bernini (C#)\\esercizioLampadina_form1\\esericizioLampadina_form1\\Esercizio_form1\\Esercizio_form1.csproj",
+      "packagesPath": "C:\\Users\\lucta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucta\\Desktop\\INFORMATICA\\Es bernini (C#)\\esercizioLampadina_form1\\esericizioLampadina_form1\\Esercizio_form1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\taiocchi.21206\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\lucta\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
