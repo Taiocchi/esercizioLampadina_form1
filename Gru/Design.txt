@@ -1,0 +1,37 @@
+class Gru
+{
+	private string numeroSeriale;
+	private string produttore;
+	private int pesoMassimo;
+	private int altezzaMassima;
+	private int altezzaMinima;
+	private int altezzaBraccio;
+
+	public int getAltezzaBraccio()
+	public string getNumeroSeriale()
+	public string getProduttore()
+	public int getPesoMassimo()
+	public int getAltezzaMassima()
+	public int getAltezzaMinima()
+	
+	public void alzaBraccio()
+	public void abbassaBraccio()
+	public void posizioneSicurezza()
+
+	public Gru(string numeroSeriale, string produttore, int pesoMassimo, int altezzaMassima, int altezzaMinima) 
+}
+
+class Stazione
+{
+	private Gru gru;
+	
+	private string numeroSeriale;
+
+	public string getNumeroSeriale()
+
+	public void alzaBraccio()
+	public void abbassaBraccio()
+	public void posizioneSicurezza()
+
+	public Stazione(string numeroSeriale)
+}
